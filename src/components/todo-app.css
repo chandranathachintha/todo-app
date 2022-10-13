@@ -24,10 +24,10 @@
 }
 @media screen and (max-width:767px){
     .title{
-     margin-left: 40px;
+     margin-left: 0px;
     }
    .input{
-    margin-left: 50px;
+    margin-left: 0px;
     height: 36px;
     width: 250px;
    }
@@ -59,7 +59,7 @@
     }
     .clrBtn{
       
-        margin-left: 40px;
+        margin-left: 0px;
     }
    
 }
